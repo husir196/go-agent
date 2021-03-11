@@ -1,5 +1,5 @@
 
-# Pinpoint Go Agent
+# Pinpoint Go Agent for all go-app
 
 ![](images/topology.png)
 
